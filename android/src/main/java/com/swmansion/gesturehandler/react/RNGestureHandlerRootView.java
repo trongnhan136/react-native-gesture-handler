@@ -12,7 +12,7 @@ import com.facebook.react.bridge.UiThreadUtil;
 import com.facebook.react.common.ReactConstants;
 import com.facebook.react.views.view.ReactViewGroup;
 
-import androidx.annotation.Nullable;
+import javax.annotation.Nullable;
 
 public class RNGestureHandlerRootView extends ReactViewGroup {
 

@@ -34,7 +34,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-import androidx.annotation.Nullable;
+import javax.annotation.Nullable;
 
 import static com.swmansion.gesturehandler.GestureHandler.HIT_SLOP_NONE;
 
